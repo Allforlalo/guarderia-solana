@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 
 // ID del programa en Solana, se llena automáticamente al hacer "Build" en Playground
-declare_id!("");
+declare_id!("EF1q3VQ9VFkGT9BXY1Ydi5sieLnNxA9mN7zQDaAVeyDw");
 
 #[program] // Macro que convierte el módulo de Rust en un programa de Solana
 pub mod guarderia {
